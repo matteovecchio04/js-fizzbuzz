@@ -1,3 +1,14 @@
+/*
+
+TOOLS:
+- for cycle
+- if
+- else if
+- else
+- console.log
+
+*/
+
 for (let i = 1; i <= 100; i++) {
 // for cycle that goes from 1 to 100
 if (i % 15 === 0) {
